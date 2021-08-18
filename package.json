@@ -1,0 +1,15 @@
+{
+  "name": "wxclient",
+  "version": "1.0.1",
+  "description": "运营支撑组内部专用微信内网穿透工具",
+  "main": "client.js",
+  "repository": {
+    "type": "git",
+    "url": "git@vcs.51talk.com:zhaojingxian/wxclient.git"
+  },
+  "dependencies": {
+      "open": "^0.0.5"
+  },
+  "author": "zhaojingxian",
+  "license": "ISC"
+}
